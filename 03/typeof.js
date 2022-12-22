@@ -7,4 +7,4 @@ console.log(typeof BigInt(35694)); // bigint
 console.log(typeof '3 hundred bucks'); // string
 console.log(typeof (1 === 3)); // boolean
 console.log(typeof console.log); // function
-console.log(typeof console.log('something')); // undefined
+console.log(typeof console.log()); // undefined
